@@ -3,9 +3,9 @@ import pandas as pd
 
 w3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/03d821a7a38f49f59611f8e5bb6b23c1'))
 
-main_wallet_address = '0xe83f5444067DB9A0E7EcE74B59bff06754d41713'
+main_wallet_address = 'address'
 
-main_wallet_private_key = '7df72a06f4e96afd2bad4d563200efca7f9b8fc538e79d67769b58aea89522af'
+main_wallet_private_key = 'private_key'
 
 df = pd.read_excel('MM.xlsx')
 
