@@ -1,2 +1,2 @@
 - L0 - мосты core и harmony
-- layerzero-bridger - свап по сетям 
+- layerzero-bridger - свап по сетям стейблы
